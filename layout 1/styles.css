@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headname{
+    margin-left: 302px;
+    margin-top: 209px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    gap: 24px;
+    justify-content: center;
+    margin-top: 69px;
+}
